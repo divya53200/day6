@@ -55,7 +55,7 @@ class App extends Component{
 
         <FuncHello/>  
 
-   
+   <h1>hello</h1>
     </div>
       )
 }
